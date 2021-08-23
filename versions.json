@@ -1,7 +1,1 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "Holisms of communication",
-		"authors": [{"name": "James McElvenny"},{"name":" Andrea Ploder"}],
-	"license": "CC-BY-4.0",
-	"publishedAt": "2021-04-28T16:39:59.000Z"}
-	]
-}
+{"versions": [{"authors": [{"name": "James McElvenny"}, {"name": " Andrea Ploder"}], "title": "Holisms of communication", "publishedAt": "2021-04-28T16:39:59.000Z", "license": "CC-BY-4.0", "versiontype": "proofreading"}, {"title": "Holisms of communication", "versiontype": "first_edition", "license": "CC-BY-4.0", "publishedAt": "2021-08-23T15:23:41.672809", "authors": [{"name": "James McElvenny"}, {"name": " Andrea Ploder"}]}]}
